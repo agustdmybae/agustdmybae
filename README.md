@@ -2,7 +2,7 @@
 
 Welcome to my world!<br>
 <br>
-🎓 CS Grad @ New York University Courant (Class of 2025) <br>
+🎓 CS Grad @ New York University Courant<br>
 🔅 Software Developer Intern @ Bunchful Enterprise (Summer 2024) <br>
 👩‍💻 Specialize in full-stack and frontend development<br>
 
