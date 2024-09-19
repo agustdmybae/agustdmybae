@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my world ✨
+
+Hi, this is Stephanie, a CS grad student at New York University specializing in frontend/full-stack development.<br>
+Hope to build amazing products that positively impact the world!
+
 
 <!--
 **agustdmybae/agustdmybae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
