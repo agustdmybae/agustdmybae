@@ -1,7 +1,10 @@
-## Welcome to my world ✨
+## Hi, this is Stephanie✨ 
 
-Hi, this is Stephanie, a CS grad student at New York University specializing in frontend/full-stack development.<br>
-Hope to build amazing products that positively impact the world!
+Welcome to my world!<br>
+<br>
+🎓 CS Grad @ New York University Courant<br>
+🔅 Software Developer Intern @ Bunchful Enterprise<br>
+👩‍💻 Specialize in full-stack and frontend development<br>
 
 
 <!--
