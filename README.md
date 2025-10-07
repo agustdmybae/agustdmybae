@@ -1,8 +1,7 @@
 ### Hi, this is Stephanie✨ Welcome to my world!
 
 🎓 CS Grad @ New York University Courant<br>
-🔅 Software Developer Intern @ Bunchful Enterprise (Summer 2024) <br>
-👩‍💻 Specialize in Full-stack development<br><br>
+🔅 Software Development Engineer Intern @ AWS (Summer 2025) <br>
 👉 Check out more on my cool [website](https://steph-portfolio-azure.vercel.app)<br>
 
 ### Language and Tools
